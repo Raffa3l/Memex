@@ -33,9 +33,8 @@ summarising, linking, filing, maintaining the index and the log. People abandon 
 grows faster than the value. An LLM does not get tired, never forgets a cross-reference, and can touch fifteen
 pages in one pass.
 
-The pattern is not tied to a field. My sources are technical handbooks of over a thousand pages, government
-reports and research reports. It works for any area where knowledge builds up over months from many documents:
-research, reading a book, standards and regulations, project knowledge, hobbies.
+The pattern is not tied to a field. It works for any area where knowledge builds up over months from many
+documents: research, reading a book, standards and regulations, project knowledge, hobbies.
 
 ## Four decisions
 

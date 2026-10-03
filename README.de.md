@@ -35,9 +35,8 @@ zusammenfassen, verlinken, einordnen, Inhaltsverzeichnis und Verlauf pflegen. Me
 Pflege schneller wächst als der Nutzen. Ein LLM wird nicht müde, vergisst keinen Querverweis und kann fünfzehn
 Seiten in einem Durchgang anfassen.
 
-Das Muster ist nicht fachgebunden. Bei mir sind die Quellen Fachbücher mit über tausend Seiten, Behördenberichte
-und Forschungsberichte. Es funktioniert für jedes Gebiet, in dem sich Wissen über Monate aus vielen Dokumenten
-aufbaut: Forschung, ein Buch beim Lesen begleiten, Normen und Regelwerke, Projektwissen, Hobbythemen.
+Das Muster ist nicht fachgebunden. Es funktioniert für jedes Gebiet, in dem sich Wissen über Monate aus vielen
+Dokumenten aufbaut: Forschung, ein Buch beim Lesen begleiten, Normen und Regelwerke, Projektwissen, Hobbythemen.
 
 ## Vier Entscheidungen
 
